@@ -1,3 +1,4 @@
+CHECK RELEASES FOR MOST CURRENT VERSION (CURRENT ON REPO IS OUT OF DATE, CHECK 2.0+)
 Anti-China IP Ban (Garry's Mod Addon)
 
 自动禁止中国IP连接 | Автоматический бан китайских IP | 自動禁止中國IP連接
